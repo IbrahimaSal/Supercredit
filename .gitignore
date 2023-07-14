@@ -39,3 +39,10 @@ testem.log
 Thumbs.db
 
 .angular
+
+# gitignore
+.gitignore
+
+# package-lock
+package-lock.json
+apps/supercredit-backend/package-lock.json
